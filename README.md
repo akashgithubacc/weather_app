@@ -40,7 +40,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Deployed Link :- https://65e9b9b4b5da2d072ed32c24--idyllic-naiad-cdf0f1.netlify.app/
 
 ### `npm run build` fails to minify
 
