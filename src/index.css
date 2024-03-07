@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: "Roboto", Arialc !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #d5d4d4;
+    min-height: 100vh;
+    overflow: scroll;
+}
+
+body:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    background-image: url("../public/icons/background.jpg");
+    z-index: -1;
+    background-attachment: inherit;
+    background-size: cover;
+    background-repeat: space;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
